@@ -11,7 +11,8 @@ namespace gittest
         static void Main(string[] args)
         {
             int a = 0;
-          
+            int feature2 = 1;
+           
             
         }
     }
