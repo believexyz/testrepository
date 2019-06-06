@@ -10,6 +10,7 @@ namespace gittest
     {
         static void Main(string[] args)
         {
+            int m=1;
         }
     }
 }
