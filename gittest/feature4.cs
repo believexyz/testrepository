@@ -8,5 +8,6 @@ namespace gittest
 {
     class feature4
     {
+        int a = 9;
     }
 }
