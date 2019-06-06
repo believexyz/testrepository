@@ -12,6 +12,7 @@ namespace gittest
         {
             int a = 0;
             int feature2 = 1;
+            int feature3 = 1;
            
             
         }
