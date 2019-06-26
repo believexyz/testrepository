@@ -8,5 +8,7 @@ namespace gittest
 {
     class feture1
     {
+        int a = 9;
+        int b = 8;
     }
 }
